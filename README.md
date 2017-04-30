@@ -1,6 +1,6 @@
 # 4981_Linux_Game
 
-![img](https://github.com/jacobmcphail/4981_Linux_Game/blob/develop/assets/TitleScreen_Marz.png)
+![img](https://github.com/jacobmcphail/4981_Linux_Game/blob/master/assets/TitleScreen_Marz.png)
 
 Brace yourself for the thrill of zombie-fighting in space! MAR-Z Features a visually stunning 2D isometric network arena style defense game parallel with unmatched networking speeds that will blow your mind. All this is possible via the finesse of CST's Finest.  
 
