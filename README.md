@@ -1,6 +1,6 @@
 # 4981_Linux_Game
 
-![img](https://github.com/bcit-datacomm/4981_Linux_Game/blob/develop/assets/TitleScreen_Marz.png)
+![img](https://github.com/jacobmcphail/4981_Linux_Game/blob/develop/assets/TitleScreen_Marz.png)
 
 Brace yourself for the thrill of zombie-fighting in space! MAR-Z Features a visually stunning 2D isometric network arena style defense game parallel with unmatched networking speeds that will blow your mind. All this is possible via the finesse of CST's Finest.  
 
@@ -8,11 +8,11 @@ To play, join the game as a Space Marine. Each space marine has a goal, and one 
 
 
 Here are some quick links for the guidelines:
-- [Style Guide](https://github.com/bcit-datacomm/4981_Linux_Game/wiki/Style-Guide)
-- [Implementation guide](https://github.com/bcit-datacomm/4981_Linux_Game/wiki/Implementation-Guide)
-- [Pseudo Code and Design](https://github.com/bcit-datacomm/4981_Linux_Game/wiki/Design)
+- [Style Guide](https://github.com/jacobmcphail/4981_Linux_Game/wiki/Style-Guide)
+- [Implementation guide](https://github.com/jacobmcphail/4981_Linux_Game/wiki/Implementation-Guide)
+- [Pseudo Code and Design](https://github.com/jacobmcphail/4981_Linux_Game/wiki/Design)
 
 And then some quick links for the ease of navigation:
-- [MAR-Z Directory Tree](https://github.com/bcit-datacomm/4981_Linux_Game/wiki/Directory-Tree-of-MAR-Z)
-- [MAR-Z Design Class Diagram](https://github.com/bcit-datacomm/4981_Linux_Game/wiki/Design-Class-Diagram)
-- [Entity Description](https://github.com/bcit-datacomm/4981_Linux_Game/wiki/Entity-Hierarchy)
+- [MAR-Z Directory Tree](https://github.com/jacobmcphail/4981_Linux_Game/wiki/Directory-Tree-of-MAR-Z)
+- [MAR-Z Design Class Diagram](https://github.com/jacobmcphail/4981_Linux_Game/wiki/Design-Class-Diagram)
+- [Entity Description](https://github.com/jacobmcphail/4981_Linux_Game/wiki/Entity-Hierarchy)
